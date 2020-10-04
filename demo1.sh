@@ -1,6 +1,1 @@
-#!/bin/sh
-
-pwd
-username
-
-who
+VimCrypt~03! нў/}3ъ:r3+НиS,¶ebR#о`єi)s•џ!Шƒ)LќЖSК°Ї;Нbr?‘ѕКђIЬ…≤ёбјЊw
